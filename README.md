@@ -1,10 +1,3 @@
-# 📈 Netflix Subscriptions Forecasting
-
-This project focuses on analyzing and forecasting Netflix subscription trends using time series analysis. It utilizes a dataset of daily subscription counts and performs decomposition, visualization, and forecasting to understand growth patterns and seasonal effects.
-
----
-
-## Project Overview
 To analyze the historical Netflix subscription data and build a forecasting model that can predict future subscriptions using statistical and machine learning techniques.
 
 ---
